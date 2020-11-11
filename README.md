@@ -18,3 +18,15 @@ This one wasn't very hard, I just had to remember how to commit the dice_roller.
 ### Picture
 
 <img src="Media/Hello_Python.png" width="250">
+
+## Calculator
+
+### Description 
+Make a calculator function that can calculate addition, subtraction, multiplication, division, and modulo for two numbers
+
+### Lesson Learned
+I had trouble understanding the functions in Python as I didn't really understand the 'return' line that Dr. Shields used. But once I looked it up I began to understand that it ends the function and returns that operation from the value. I had to look up a few things, but with Harry's help, we figured out how to do it.
+
+### Picture
+
+<img src="Media/Calculator.png" width="250">
