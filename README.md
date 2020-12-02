@@ -57,7 +57,7 @@ At the start, I had trouble understanding the split() function. I would split th
 Using your knowledge, create a two player hangman game that displays the hangman when someone gets one wrong.
 
 ### Lesson Learned
-I had a good bit of trouble wwith this to begin with, but after a day or so, the hangman part seemed to make snese, and replacing every letter from the word with _"_"_ wasnt a challenge because I did a similar thing in strings and loops. The hardest part was determining how to do the hangman. I tried to do a function and array multiple times, but It never seemed to work so I switched to if statements under a boolean.
+I had a good bit of trouble wwith this to begin with, but after a day or so, the hangman part seemed to make snese, and replacing every letter from the word with an underscore wasnt a challenge because I did a similar thing in strings and loops. The hardest part was determining how to do the hangman. I tried to do a function and array multiple times, but It never seemed to work so I switched to if statements under a boolean.
 
 ### Picture
 <img src="Media/MSP.png" width="250">
