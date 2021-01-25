@@ -61,3 +61,59 @@ I had a good bit of trouble wwith this to begin with, but after a day or so, the
 
 ### Picture
 <img src="Media/MSP.png" width="250">
+
+
+## SSH
+
+### Description
+
+You have to use SSH to activate an LED remotely.
+
+### Lesson Learned
+
+I was skeptical of how hard this assignment would be but since Dr. Shields said to do it first, I assumed it wouldn't be that bad. It was relatively hard getting used to GPIO but i got it in the end and it seems that the SSH is really useful and I will have to use it in later assignments.
+
+### Picture
+
+<img src="Media/IMG_0128 (1).heic" width="250">
+
+
+## Bash
+
+### Description
+
+Make an LED blink 10 times using bash
+
+### Lesson Learned
+
+This one wasn't that bad and I figured out where to go and what to do thanks to other student's GitHub pages. I found a little bit of trouble with some parts but through some research I figured out what my goal was. In the future, I need to research more online because I was stuck for a little bit but with just a few searches I was able to find what I needed.
+
+### Picture
+
+<img src="Media/IMG_0128 (1).heic" width="250">
+
+## Python
+
+### Description
+
+This is the same premise as SSH but without SSH.
+
+### Lesson Learned
+
+Since I had already done SSH this one was pretty straightforward. I had almost no trouble with it and I kept the same wiring as previous assignments. I'm now glad I did SSH first.
+
+### Picture 
+
+<img src="Media/IMG_0128 (1).heic" width="250">
+
+## Hello Flask
+
+### Description
+
+Set up the Pi to be on a web server just by typing in its IP address
+
+### Lesson Learned
+
+This program was hard to think about when I was first starting, but I have learned to map out and write down what I need before I start coding, so once I did that, I had little trouble. I didn't know that the pi was supposed to go blank when it was running, but I eventually figured it out. I then went to another computer in my house to see if it worked and it did.
+
+
