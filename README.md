@@ -30,3 +30,34 @@ I had trouble understanding the functions in Python as I didn't really understan
 ### Picture
 
 <img src="Media/Calculator.png" width="250">
+
+## Quadratic Formula
+
+### Description
+Make a calculator that will, when input 3 numbers, find if those numbers have roots in the standard **ax^2 + bx + c** form.
+
+### Lesson Learned
+This project helped me expand my knowledge of functions more ad I struggled hard with the last one, but this one seemed to just click. I looked up a few things such as how to find the discrinimant and implement it in python. (the discrinimant is the part under the square root: **b^2 - 4*a*c**) Functions becoming easier for me is beneficial because I dont have to have 150 lines of code now, i can just call a function I made and everything looks more compact.
+
+## Strings and Loops
+
+### Description
+Using the _split()_ function, make an application to print out a sentence, letter by letter, and replace spaces with "-"
+
+### Lesson Learned
+At the start, I had trouble understanding the split() function. I would split the sentence once, which would simply give me the words, and then I would add those to an array and attempt to split them again. Only when we started using **repl.it**, and I started working collaboratively with Harry is when I realized it was much simpler than that. You can just split it twice!
+
+### Picture
+
+<img src="Media/Strings_and_loops.png" width="250">
+
+## MSP
+
+### Description
+Using your knowledge, create a two player hangman game that displays the hangman when someone gets one wrong.
+
+### Lesson Learned
+I had a good bit of trouble wwith this to begin with, but after a day or so, the hangman part seemed to make snese, and replacing every letter from the word with an underscore wasnt a challenge because I did a similar thing in strings and loops. The hardest part was determining how to do the hangman. I tried to do a function and array multiple times, but It never seemed to work so I switched to if statements under a boolean.
+
+### Picture
+<img src="Media/MSP.png" width="250">
