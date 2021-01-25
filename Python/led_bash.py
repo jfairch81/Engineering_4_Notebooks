@@ -1,11 +1,11 @@
-#!/bin/bash  #allows you to run the program by just typing its name
+#!/bin/bash  #run program
 
-echo "LED BLINK IN BASH" #pints that the program is running
+echo "LED IN BASH" # lets u know program running
 
 
-for i in {1..20} #to turn on an off 10 times, you need to change it 20 times
+for i in {1..20} # Needs to turn on and off 10 times, 10 * 2 = 20
 do
-	/usr/bin/gpio -1 toggle 38   #selects the physical pin number, and toggles
-	sleep 1  #little sleep to not have the LED go crazy
+	/usr/bin/gpio -1 toggle 38 
+	sleep 1  
 done
 
