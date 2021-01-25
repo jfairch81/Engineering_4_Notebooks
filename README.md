@@ -75,7 +75,7 @@ I was skeptical of how hard this assignment would be but since Dr. Shields said 
 
 ### Picture
 
-<img src="Media/IMG_0128%20(1).heic" width="250">
+<img src="Media/Piwiring.png" width="250">
 
 
 ## Bash
@@ -90,7 +90,7 @@ This one wasn't that bad and I figured out where to go and what to do thanks to 
 
 ### Picture
 
-<img src="Media/IMG_0128%20(1).heic" width="250">
+<img src="Media/Piwiring.png" width="250">
 
 ## Python
 
@@ -104,7 +104,7 @@ Since I had already done SSH this one was pretty straightforward. I had almost n
 
 ### Picture 
 
-<img src="Media/IMG_0128%20(1).heic" width="250">
+<img src="Media/Piwiring.png" width="250">
 
 ## Hello Flask
 
