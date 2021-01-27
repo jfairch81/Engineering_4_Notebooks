@@ -75,22 +75,24 @@ I was skeptical of how hard this assignment would be but since Dr. Shields said 
 
 ### Picture
 
-<img src="Media/Piwiring.png" width="250">
+<img src="Media/LED_wiring.jpg" width="250">
 
 
 ## Bash
 
 ### Description
 
-Make an LED blink 10 times using bash
+Make 2 LEDs blink 10 times using bash
 
 ### Lesson Learned
 
 This one wasn't that bad and I figured out where to go and what to do thanks to other student's GitHub pages. I found a little bit of trouble with some parts but through some research I figured out what my goal was. In the future, I need to research more online because I was stuck for a little bit but with just a few searches I was able to find what I needed.
 
+Code: https://github.com/jfairch81/Engineering_4_Notebooks/blob/main/Python/led_bash.py
+
 ### Picture
 
-<img src="Media/Piwiring.png" width="250">
+<img src="Media/LED_wiring.jpg" width="250">
 
 ## Python
 
@@ -104,7 +106,7 @@ Since I had already done SSH this one was pretty straightforward. I had almost n
 
 ### Picture 
 
-<img src="Media/Piwiring.png" width="250">
+<img src="Media/LED_wiring.jpg" width="250">
 
 ## Hello Flask
 
