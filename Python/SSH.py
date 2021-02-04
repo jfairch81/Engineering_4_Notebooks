@@ -1,12 +1,12 @@
 import RPi.GPIO as GPIO
 import time
 
-GPIO.setwarnings(False) # sets weird warnings to false
-leds = [38] #  put the physical pin number here
+GPIO.setwarnings(False) # sets warning to false
+leds = [38] #  pin number
 GPIO.setmode(GPIO.BOARD)
-GPIO.setup(leds, GPIO.OUT) # sets the pins to output
+GPIO.setup(leds, GPIO.OUT) # output
 
-for i in range(0, 3): # blinks the LED(s) 3 times
+for i in range(0, 3): # blinks
 	GPIO.output(leds, 1)
 	time.sleep(0.5)
 	GPIO.output(leds, 0)
