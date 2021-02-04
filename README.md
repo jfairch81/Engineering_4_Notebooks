@@ -118,4 +118,12 @@ Set up the Pi to be on a web server just by typing in its IP address
 
 This program was hard to think about when I was first starting, but I have learned to map out and write down what I need before I start coding, so once I did that, I had little trouble. I didn't know that the pi was supposed to go blank when it was running, but I eventually figured it out. I then went to another computer in my house to see if it worked and it did.
 
+## GPIO Flask
 
+### Description 
+
+Turn on and off 2 leds wireless from another computer
+
+### Lesson Learned
+
+Personally, I found this assignment troubling because I had to research about HTML, but I think this assignment has helped me get new ideas for how I can run my project this year. Including a second computer in the mix, and having it control parts of the Pi makes everything so much cooler. I might try to implement something similar into my actual project. I also had to look at other students wiring diagrams which saved me a good bit of time. Also, I once again forgot the correct process to push to GitHub so I went back to the Strings_and_Loops assignment and found the right way there!
