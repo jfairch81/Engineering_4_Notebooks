@@ -127,3 +127,13 @@ Turn on and off 2 leds wireless from another computer
 ### Lesson Learned
 
 Personally, I found this assignment troubling because I had to research about HTML, but I think this assignment has helped me get new ideas for how I can run my project this year. Including a second computer in the mix, and having it control parts of the Pi makes everything so much cooler. I might try to implement something similar into my actual project. I also had to look at other students wiring diagrams which saved me a good bit of time. Also, I once again forgot the correct process to push to GitHub so I went back to the Strings_and_Loops assignment and found the right way there!
+
+## GPIO Pins - I2C
+
+### Description
+
+Set up and use the accelerometer with a display to show x, y, and z acceleration
+
+### Lesson Learned
+
+This assignment caused me a bit of struggle because I almost completed it a while ago, stopped to work on my project, and then I couldn't get into my Pi because I got new wifi. The good thing is, I ordered a new serial cable from Adafruit thanks to some help from Dr. Shields. The directions to the project were pretty easy wiring and the hardest part was probably the code, but since I got some help from Harry and my other classmates, it wasn't too bad. I liked how the directions outlined everything I needed to do and made them straightforward. I'm glad I got this done because we almost finished the code for the accelerometer, and I want to test it out. The link to the USB Serial Cable is : https://www.adafruit.com/product/954?gclid=Cj0KCQjwnueFBhChARIsAPu3YkTZqVgpFf9V17jmUWxFpPt1tC-zAcmSlp8U8G1gzp_OFXE2_Jy1HmIaAt5WEALw_wcB
