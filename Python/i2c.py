@@ -44,4 +44,4 @@ while True:
 	disp.display()
   
   
-	time.sleep(.2)
+	time.sleep(.15)
