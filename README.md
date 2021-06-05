@@ -137,3 +137,13 @@ Set up and use the accelerometer with a display to show x, y, and z acceleration
 ### Lesson Learned
 
 This assignment caused me a bit of struggle because I almost completed it a while ago, stopped to work on my project, and then I couldn't get into my Pi because I got new wifi. The good thing is, I ordered a new serial cable from Adafruit thanks to some help from Dr. Shields. The directions to the project were pretty easy wiring and the hardest part was probably the code, but since I got some help from Harry and my other classmates, it wasn't too bad. I liked how the directions outlined everything I needed to do and made them straightforward. I'm glad I got this done because we almost finished the code for the accelerometer, and I want to test it out. The link to the USB Serial Cable is : https://www.adafruit.com/product/954?gclid=Cj0KCQjwnueFBhChARIsAPu3YkTZqVgpFf9V17jmUWxFpPt1tC-zAcmSlp8U8G1gzp_OFXE2_Jy1HmIaAt5WEALw_wcB
+
+## Headless
+
+### Description
+
+Take I2C, graph 1 axis, and then run the program without a monitor, keyboard, or mouse
+
+### Lesson Learned
+
+As I mentioned previously, I recently got new wifi, but before I did the last one, I made sure to connect to ssh which made logging in so much faster and without lots of issues. One of the major blocks I used to have is that the cable wouldn't work sometimes but that's irrelevant now. Most of the problems I would've had were solved already by my peers, so this one wasn't that bad. Also, I was just working on accelerometer yesterday, so I already had the right mindset coming into this. I made the scatterplot and I thought this assignment was really cool because I walked around with my pi after I was done.
