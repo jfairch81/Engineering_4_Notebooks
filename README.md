@@ -152,8 +152,8 @@ As I mentioned previously, I recently got new wifi, but before I did the last on
 
 ### Description
 
-Use the camera with the pi and create a program that, when run prints a message to the screen, takes a picture, then prints another message.
-Use the camera with the pi and create a program that takes 5 pictures with different filters.
+1. Use the camera with the pi and create a program that, when run prints a message to the screen, takes a picture, then prints another message.
+2. Use the camera with the pi and create a program that takes 5 pictures with different filters.
 
 ### Lesson Learned
 
@@ -175,3 +175,11 @@ I encountered an error when I first started this assignment. My camera didn't wo
   * [Sketch](https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_sketch.jpg)
   * [Washed Out](https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_washedout.jpg)
 
+## Copypasta
+
+### Description
+
+1. Use Motion Sensor to trigger video recording using Raspberry Pi
+2. Make a Stop Motion Video using the camera and Raspberry Pi
+
+### Lesson Learned
