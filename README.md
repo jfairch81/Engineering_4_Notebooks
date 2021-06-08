@@ -179,7 +179,7 @@ I encountered an error when I first started this assignment. My camera didn't wo
 
 ### Description
 
-1. Use Motion Sensor to trigger video recording using Raspberry Pi
+1. Use Motion Sensor to trigger picture using Raspberry Pi
 2. Make a Stop Motion Video using the camera and Raspberry Pi
 
 ### Lesson Learned
