@@ -163,10 +163,12 @@ I encountered an error when I first started this assignment. My camera didn't wo
 
 * camera_test01.py
 
+  * [Code](https://github.com/nsun94/Engineering_4_notebook/blob/main/camtest1.py)
   * [First Picture](https://github.com/nsun94/Engineering_4_notebook/blob/main/cameratest.jpeg)
 
 * camera_test02.py
 
+  * [Code](https://github.com/nsun94/Engineering_4_notebook/blob/main/camtest2.py)
   * [Cartoon](https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_cartoon.jpg)
   * [Color Swap](https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_colorswap.jpg)
   * [None](https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_none.jpg)
