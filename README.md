@@ -147,3 +147,18 @@ Take I2C, graph 1 axis, and then run the program without a monitor, keyboard, or
 ### Lesson Learned
 
 As I mentioned previously, I recently got new wifi, but before I did the last one, I made sure to connect to ssh which made loading in so much faster and without lots of issues. One of the major blocks I used to have is that the cable wouldn't work sometimes but that's irrelevant now. Most of the problems I would've had were solved already by my peers, so this one wasn't that bad. Also, I was just working on accelerometer yesterday, so I already had the right mindset coming into this. I made the scatterplot and I thought this assignment was really cool because I walked around with my pi after I was done.
+
+## Pi Camera
+
+### Description
+
+Use the camera with the pi and create a program that, when run prints a message to the screen, takes a picture, then prints another message.
+Use the camera with the pi and create a program that takes 5 pictures with different filters.
+
+### Lesson Learned
+
+I encountered an error when I first started this assignment. My camera didn't work. I then called Nico Sun and Harry DH and we worked on the assignment together through a voice call. Since Dr. Shields gave us the basis for how to get the camera working, snapping a picture wasn't too difficult. Then, with the help of our peers GitHub, we found that we needed to use with statement which was new. For the second one, it was pretty easy from there.
+
+### Pictures
+
+[First Picture](https://github.com/Hdreese56/Engineering_4_Notebook/blob/main/camera_nico.jpg)
