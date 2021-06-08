@@ -161,15 +161,15 @@ I encountered an error when I first started this assignment. My camera didn't wo
 
 ### Pictures
 
-camera_test01.py
+* camera_test01.py
 
-[First Picture](https://github.com/nsun94/Engineering_4_notebook/blob/main/cameratest.jpeg)
+  * [First Picture](https://github.com/nsun94/Engineering_4_notebook/blob/main/cameratest.jpeg)
 
-camera_test02.py
+* camera_test02.py
 
-[Cartoon](https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_cartoon.jpg)
-[Color Swap](https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_colorswap.jpg)
-[None](https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_none.jpg)
-[Sketch](https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_sketch.jpg)
-[Washed Out](https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_washedout.jpg)
+  * [Cartoon](https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_cartoon.jpg)
+  * [Color Swap](https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_colorswap.jpg)
+  * [None](https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_none.jpg)
+  * [Sketch](https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_sketch.jpg)
+  * [Washed Out](https://github.com/nsun94/Engineering_4_notebook/blob/main/pics/camera_test_washedout.jpg)
 
