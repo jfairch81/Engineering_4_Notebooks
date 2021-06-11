@@ -183,3 +183,15 @@ I encountered an error when I first started this assignment. My camera didn't wo
 2. Make a Stop Motion Video using the camera and Raspberry Pi
 
 ### Lesson Learned
+
+Nico, Harry and I finished Copypasta. Nico's motion sensor wasn't working so I gave him mine and he was able to connect it and get the video working. For the second assignment, we couldn't figure out how the stop-motion worked, so we had nico just take 3 pictures that he was planning for the stop motion video. We got the code but couldn't get it to fully work.
+
+### Pictures
+
+* 1st
+  * [Code](https://github.com/nsun94/Engineering_4_notebook/blob/main/copypasta1)
+  * [Video](https://github.com/nsun94/Engineering_4_notebook/blob/main/pics_my_movie.mp4)
+
+* 2nd
+  * [Code](https://github.com/nsun94/Engineering_4_notebook/blob/main/copypasta1)
+  * [Pictures](https://github.com/nsun94/Engineering_4_notebook)
